@@ -5,6 +5,46 @@ namespace Faker;
 use Faker\Container\ContainerInterface;
 
 /**
+ * @property string $state
+ *
+ * @method string state()
+ *
+ * @property string $stateAbbr
+ *
+ * @method string stateAbbr()
+ *
+ * @property string $bs
+ *
+ * @method string bs()
+ *
+ * @property string $catchPhrase
+ *
+ * @method string catchPhrase()
+ *
+ * @property string $cityPrefix
+ *
+ * @method string cityPrefix()
+ *
+ * @property string $phoneNumberWithExtension
+ *
+ * @method string phoneNumberWithExtension()
+ *
+ * @property string $secondaryAddress
+ *
+ * @method string secondaryAddress()
+ *
+ * @property string $stateAbbr
+ *
+ * @method string stateAbbr()
+ *
+ * @property string $suffix
+ *
+ * @method string suffix()
+ *
+ * @property string $tollFreePhoneNumber
+ *
+ * @method string tollFreePhoneNumber()
+ *
  * @property string $citySuffix
  *
  * @method string citySuffix()
